@@ -5,7 +5,7 @@
 
 # 🧱 Sistema de Aluguer de Betoneiras
 
-Repositório criado para o desenvolvimento do trabalho da disciplina de **Base de Dados** da **FAESA**.
+O Repositório criado para o desenvolvimento do trabalho da disciplina de **Base de Dados** da **FAESA**.
 O projeto consiste num **sistema em Python** para gerir o **aluguer de betoneiras**, controlando **clientes**, **equipamentos** e os **respetivos alugueres**.
 
 ---
